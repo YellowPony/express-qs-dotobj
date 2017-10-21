@@ -1,6 +1,6 @@
 {
   "name": "express-qs-dotobj",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Parse query string params delimited by dot into object",
   "main": "index.js",
   "scripts": {
